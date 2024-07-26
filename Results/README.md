@@ -18,13 +18,13 @@ The main focus of the simulation is on Goppa codes and their performance. The si
 
 ### Plot 1: Goppa Code Performance (Individual Codes)
 
-![Goppa Code Performance](path/to/goppa_code_performance.png)
+![Goppa Code Performance](https://github.com/vahidnorozi8/goppa-code-implementation/blob/main/Results/goppa_code_performance.png)
 
 **Description**: This plot shows the performance of different Goppa codes. The x-axis represents the error rates, while the y-axis represents the decoding success rates, detected uncorrectable rates, and average errors. Each curve corresponds to a specific Goppa code parameter.
 
 ### Plot 2: Average Errors vs Error Rate
 
-![Average Errors vs Error Rate](path/to/average_errors.png)
+![Average Errors vs Error Rate](https://github.com/vahidnorozi8/goppa-code-implementation/blob/main/Results/average_errors.png)
 
 **Description**: This plot illustrates the average number of errors as a function of the error rate. The x-axis shows the error rates, and the y-axis represents the average number of errors observed during the simulation. This plot helps in understanding how the average error rate varies with different error conditions.
 
