@@ -1,4 +1,4 @@
-# goppa-code-implementation
+
 # Goppa Code Implementation
 
 This project implements a Goppa code, which is a type of error-correcting code used in cryptography. The implementation is based on the research presented in the following paper:
