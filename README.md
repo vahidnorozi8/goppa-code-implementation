@@ -35,7 +35,7 @@ To use this implementation:
 1. Ensure you have Python 3.x and SageMath installed.
 2. Clone this repository:
    ```
-   git clone https://github.com/your-username/goppa-code-implementation.git
+   git clone https://github.com/vahidnorozi87/goppa-code-implementation.git
    ```
 3. Navigate to the project directory:
    ```
