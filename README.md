@@ -51,10 +51,8 @@ To use this implementation:
 - Python 3.x
 - SageMath
 
-## License
 
-[Specify your license here, e.g., MIT, GPL, etc.]
 
 ## Contact
 
-For questions or collaborations, please contact [Your Name] at [your email address].
+For questions or collaborations, please contact Vahid at vahidnorozi87@gmail.com.
