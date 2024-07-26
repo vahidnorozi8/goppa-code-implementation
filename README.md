@@ -50,7 +50,7 @@ To use this implementation:
 Below is a sample output from running the script Goppa_code:
 
 ```
-Created a [8, 3, 5] Goppa code over GF(4)
+Created a [8, 3, 5] Goppa code over GF(4) on y^2+y=x^3
 Generator Matrix:
 [    1     0     0     1     a a + 1     1     0]
 [    0     1     0     1     1     0 a + 1     a]
